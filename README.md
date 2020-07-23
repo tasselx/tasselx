@@ -1,5 +1,6 @@
-### 👋 Welcome to Tassel's github.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tasselx" />
 
-[![Tassel's github stats](https://github-readme-stats.vercel.app/api?username=tasselx)](https://github.com/anuraghazra/github-readme-stats) 
+### 👋 Welcome to Tassel's github
 
 
+Keep it simple, stupid.
